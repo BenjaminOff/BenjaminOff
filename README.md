@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello ! 👋  I'm Benjamin
 
-<!--
-**BenjaminOff/BenjaminOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚗️ » French young developer.
+- 🤓 » Later? I would like to be a web designer.
 
-Here are some ideas to get you started:
+## 🌊 My social networks :
+- 🔱 » My website: [kunioweb.site](https://kunioweb.site)
+- 🤖 » Discord: [@Kunio.#2804](https://discord.com/users/750793433257476146)
+- 🐤 » Twitter : [kunio_bg](https://twitter.com/kunio_bg)
+- ☄️ » TikTok: [thibdlnt](https://tiktok.com/@benj_3869) (+1K)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Number of visits :
+
+<p>&nbsp;</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Weyzox/count.svg" />
+</p>
