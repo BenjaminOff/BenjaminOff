@@ -7,7 +7,7 @@
 - 🔱 » My website: [kunioweb.site](https://kunioweb.site)
 - 🤖 » Discord: [@Kunio.#2804](https://discord.com/users/750793433257476146)
 - 🐤 » Twitter : [kunio_bg](https://twitter.com/kunio_bg)
-- ☄️ » TikTok: [thibdlnt](https://tiktok.com/@benj_3869) (+1K)
+- ☄️ » TikTok: [benj](https://tiktok.com/@benj_3869) (+1K)
 
 ## 🌟 Number of visits :
 
