@@ -5,7 +5,7 @@
 
 ## 🌊 My social networks :
 - 🔱 » My website: [kunioweb.site](https://kunioweb.site)
-- 🤖 » Discord: [@Kunio.#2804](https://discord.com/users/750793433257476146)
+- 🤖 » Discord: [kunio.rpst](https://discord.com/users/750793433257476146)
 - 🐤 » Twitter : [kunio_bg](https://twitter.com/kunio_bg)
 - ☄️ » TikTok: [benj](https://tiktok.com/@benj_3869) (+1K)
 
